@@ -22,7 +22,7 @@ DrinkTionary is an intuitive and easy-to-use app designed for beverage enthusias
 - Using slice pattern to separate functionality within useStore
 
 ### [SetUp]
-- `git clone `
+- `git clone https://github.com/jagim/drink-tionary.git`
 - go to your local-project folder
 - `npm install`
 - `npm run dev`
